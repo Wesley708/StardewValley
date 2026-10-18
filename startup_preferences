@@ -7,13 +7,13 @@
   <levelTenCombat>false</levelTenCombat>
   <skipWindowPreparation>false</skipWindowPreparation>
   <sawAdvancedCharacterCreationIndicator>false</sawAdvancedCharacterCreationIndicator>
-  <timesPlayed>71</timesPlayed>
+  <timesPlayed>90</timesPlayed>
   <windowMode>0</windowMode>
   <displayIndex>0</displayIndex>
-  <gamepadMode>Auto</gamepadMode>
+  <gamepadMode>ForceOff</gamepadMode>
   <playerLimit>-1</playerLimit>
-  <fullscreenResolutionX>1920</fullscreenResolutionX>
-  <fullscreenResolutionY>1080</fullscreenResolutionY>
+  <fullscreenResolutionX>1366</fullscreenResolutionX>
+  <fullscreenResolutionY>768</fullscreenResolutionY>
   <lastEnteredIP />
   <languageCode>en</languageCode>
   <clientOptions>
@@ -28,7 +28,7 @@
     <pauseWhenOutOfFocus>true</pauseWhenOutOfFocus>
     <pinToolbarToggle>false</pinToolbarToggle>
     <mouseControls>false</mouseControls>
-    <gamepadControls>false</gamepadControls>
+    <gamepadControls>true</gamepadControls>
     <rumble>true</rumble>
     <ambientOnlyToggle>false</ambientOnlyToggle>
     <zoomButtons>false</zoomButtons>
@@ -49,7 +49,7 @@
     <enableServer>true</enableServer>
     <enableFarmhandCreation>true</enableFarmhandCreation>
     <stowingMode>Off</stowingMode>
-    <gamepadMode>Auto</gamepadMode>
+    <gamepadMode>ForceOn</gamepadMode>
     <useLegacySlingshotFiring>false</useLegacySlingshotFiring>
     <musicVolumeLevel>0.75</musicVolumeLevel>
     <soundVolumeLevel>1</soundVolumeLevel>
